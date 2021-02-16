@@ -1,4 +1,4 @@
-# Title
+# Name, Address & Email
 A program to print Name, Address and Email address.
 Have a blank line between each.
 Print initials in asterisks.
